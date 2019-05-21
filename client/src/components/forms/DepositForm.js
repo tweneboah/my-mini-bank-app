@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux';
-import depositAction from '../actions/depositAction'
+import depositAction from '../../actions/depositAction'
 import moment from 'moment';
 import uuid from 'uuid'
 

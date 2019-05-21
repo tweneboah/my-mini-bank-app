@@ -1,13 +1,12 @@
 body {
-    background:#2c2c54;
+    background:#cacad4;
     font-size: 17px;
 }
-
-.Footer-class{
+ .Footer-class{
     background:#1e272e;
 }
 
 .TransactionHistoryTable {
     background: #882626
-}
+} 
 

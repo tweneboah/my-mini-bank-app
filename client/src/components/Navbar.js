@@ -15,8 +15,12 @@ class Navbar extends Component {
       <li class="nav-item active">
         <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
       </li>
+
+      <li class="nav-item active">
+        <a class="nav-link" href="/myaccount">My Account <span class="sr-only">(current)</span></a>
+      </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://my-bank-app-api.herokuapp.com/">API</a>
+        <a class="nav-link" href="/"><button>Login with Google</button></a>
       </li>
     </ul>
   </div>
