@@ -20,7 +20,7 @@ class Navbar extends Component {
         <a class="nav-link" href="/myaccount">My Account <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/"><button>Login with Google</button></a>
+        <a class="nav-link" href="/auth/google"><button>Login with Google</button></a>
       </li>
     </ul>
   </div>
