@@ -4,7 +4,7 @@ const generatePassword = require('password-generator');
 
 const app = express();
 
-app.get('/', (req, res) => {
+app.get('/emmanuel', (req, res) => {
   res.send({name: 'Emmanuel Famil'})
 })
 // Serve static files from the React app
